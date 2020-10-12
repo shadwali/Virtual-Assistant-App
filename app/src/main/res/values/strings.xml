@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Virtual Assistant</string>
+
+    <string name="system">    Hi, I am Friday your Virtual Assistant.
+        How can i help you ?
+        Please tap to Speak...
+
+    </string>
+    <string name="todo">TODO</string>
+    <string name="result">Result</string>
+    <string name="backg">backg</string>
+    <string name="background">background</string>
+    <string name="welcome">Welcome</string>
+    <string name="Welcome">Voice Automation</string>
+    <string name="home">Home</string>
+
+    <string name="help">Help</string>
+    <string name="feedback"> Feedback</string>
+    <string name="about"> About</string>
+    <string name="va_logo">VAlogo</string>
+    <string name="e_mail_id">E-mail ID</string>
+    <string name="leave_product_feedback_or_share_your_ideas">Leave product feedback or share your ideas</string>
+    <string name="send">Send</string>
+    <string name="button_layout">Start</string>
+    <string name="helptext">This app provide some services to user to know how to use this app.
+    Please hit the Start button to start tutorial.... </string>
+    <string name="tutorialtext">This simple app is designed to support
+    call service to user.There are two way to use this app.Follow these steps to use this app...
+     </string>
+    <string name="firsttext">First, to call someone with any number then say "Call 'Any Number' ".
+        These will the call specific number.
+    </string>
+    <string name="secondtext">Second, to call someone with by name then say "Call 'Person Name' ".
+        These will the call to specific person.</string>
+
+
+    <string name="aboutttext">These app provide service and understand natural language voice commands 
+    and complete tasks for the user</string>
+    <string name="aboutapp">About the app</string>
+    <string name="app_info">App Info</string>
+    <string name="virtual_assistant">Virtual Assistant</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="_2019_virtual_assistant_inc">2019 Virtual Assistant Inc.</string>
+    <string name="back">back</string>
+
+</resources>
